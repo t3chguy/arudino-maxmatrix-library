@@ -1,3 +1,9 @@
+/*
+ * MaxMatrix
+ * Version 1.0 Feb 2013
+ * Copyright 2013 Oscar Kin-Chung Au
+ */
+
 #ifndef _MaxMatrix_H_
 #define _MaxMatrix_H_
 
